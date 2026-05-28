@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/Rimfo4/Rimfo4/snake-output/snake.svg" alt="Snake animation" />
-
-###
